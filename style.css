@@ -1,0 +1,20 @@
+.W {
+    background-color: black;
+}
+.row {
+    display:flex;
+    flex-wrap: wrap;
+}
+body {
+    margin: 0px;
+}
+#sonic{
+    position:absolute;
+}
+#endImg{
+    position:absolute;
+}
+
+footer {
+    height: 5vh;
+}
